@@ -1,1 +1,1 @@
-I like language models and building things with them.
+I think about language models and reinforcement learning.
